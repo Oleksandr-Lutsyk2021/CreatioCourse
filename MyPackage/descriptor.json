@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "95d16f10-b0a8-40b7-40fb-d4695bd88535",
+    "Name": "MyPackage",
+    "ModifiedOnUtc": "\/Date(1632757041000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}
